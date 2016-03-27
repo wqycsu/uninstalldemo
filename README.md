@@ -1,7 +1,7 @@
 # uninstalldemo
-一个实现Android卸载监听的demo
-实现原理及分析可见[博客](http://www.jianshu.com/p/189e319a5c45)
-注：5.0及以上android版本无效 
+一个实现Android卸载监听的demo，实现原理及分析可见[博客](http://www.jianshu.com/p/189e319a5c45)。
+
+*注：5.0及以上android版本无效* 
  
 # License
 ```
