@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 /build
-=======
 # Built application files
 *.apk
 *.ap_
@@ -33,4 +31,4 @@ proguard/
 
 # Android Studio captures folder
 captures/
->>>>>>> 68ddb85f456838653b3fd7e44848ed561ed06c31
+obj/
