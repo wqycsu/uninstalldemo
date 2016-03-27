@@ -1,0 +1,3 @@
+set solib-search-path /Users/weiquanyun/AndroidStudioProjects/MyApplication/UnInstallDemo/app/obj/local/armeabi
+source /Users/weiquanyun/android-ndk-r10e/prebuilt/common/gdb/common.setup
+directory /Users/weiquanyun/android-ndk-r10e/platforms/android-14/arch-arm/usr/include /Users/weiquanyun/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++ /Users/weiquanyun/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include /Users/weiquanyun/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/libs/armeabi/include /Users/weiquanyun/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/backward /Users/weiquanyun/AndroidStudioProjects/MyApplication/UnInstallDemo/app/jni
